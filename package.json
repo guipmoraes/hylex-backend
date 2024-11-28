@@ -11,7 +11,7 @@
   "author": "Uzm Studio Inc.",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.7.8",
     "celebrate": "^12.1.0",
     "cors": "^2.8.5",
     "dateformat": "^3.0.3",
